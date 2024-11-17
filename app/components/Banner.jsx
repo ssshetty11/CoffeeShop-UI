@@ -11,8 +11,7 @@ import 'swiper/css/scrollbar';
 
 const Banner = () => {
   return (
-    <>
-     <Swiper className='h-[450px] lg:h-[500px]'
+    <Swiper
       modules={[Autoplay]}
       spaceBetween={30}
       slidesPerView={1}
@@ -120,7 +119,6 @@ const Banner = () => {
       {/* Apply same pattern to third slide */}
       
     </Swiper>
-    </>
   )
 }
 
