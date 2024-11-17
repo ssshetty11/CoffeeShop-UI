@@ -91,7 +91,7 @@ npm run dev or yarn dev
 
 ## 🚀 Deployment
 The project is deployed on:
-- Vercel (recommended for Next.js)
+- Vercel https://coffee-shopui.vercel.app/
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details
